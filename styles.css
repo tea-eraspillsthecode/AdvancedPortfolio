@@ -271,7 +271,8 @@ LANDING PAGE
     border: none;
     background-color: #242424;
     color: white;
-    position: absolute;
+    position: fixed;
+    z-index: 30;
     bottom: 32px;
     right: 40px;
 }
